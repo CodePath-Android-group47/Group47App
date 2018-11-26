@@ -22,20 +22,27 @@ They said we couldn't do it. They said it was impossible. Tell me, when you look
 ---
 
 ### Potential Add-ons
-// What this app can also achieve later down the line....
 1. Places to eat, shop and find entertainment
+2. Job board: Employers will yet another place potential openings. 
+3. Open the market to all those seeking realocation. 
 
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
-
----
+#### Required
+  1. The user opens the app and is brought to the main screen. Here they can choose from two catigories Student or Host
+  2. Student Tab
+    1. If the user is new they will fill out various fields such as: name, phone number, email, where they are going to be employed, and        the range of rent they can afford.
+    2. If they are returning, the app will display the best avaliable matches according to their profile. They will also have the option        to view all listings.
+  3. Host Tab
+    1. If the user is new they will fill out various fields such as: name, email or phone number (which ever they prefer), Address of            properity, and the range of rent they are asking for.
+    2. If they are returning, the app will display new messages from interested students
+#### Optional
+  1. A third option for the social media tab. This screen will be a way for students to connect to other students in the area they are        interested in working. This could be a feature that will allow habit forming. 
+  2. Hosts can see students and reach out to them. They could also be able to track stats of their properties such as: views, messages        about that properity, and what an algorithm recomends for the approiate rent range. 
 
 ### Wireframes
 // TODO: Add Wireframe Images
 
----
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
